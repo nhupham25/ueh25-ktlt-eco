@@ -1,0 +1,9 @@
+def in_nhan():
+    print("*******************************")
+    print("* Trường: Đại Học UEH         *")
+    print("* Khoa: CNTT                  *")
+    print("* Họ ten:Phạm Thị Huỳnh Như   *")
+    print("*******************************")
+
+if __name__ == "__main__":
+    in_nhan()
